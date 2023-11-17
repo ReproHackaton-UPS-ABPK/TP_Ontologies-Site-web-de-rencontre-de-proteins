@@ -23,3 +23,6 @@ pip install Flask
 pip install mygene
 pip install ipykernel
 ```
+## Réferences utilisés:
+* « Python et les ontologies » de Jean-Baptiste Lamy.
+* Lamy JB. Owlready: Ontology-oriented programming in Python with automatic classification and high level constructs for biomedical ontologies. Artificial Intelligence In Medicine 2017;80:11-28
