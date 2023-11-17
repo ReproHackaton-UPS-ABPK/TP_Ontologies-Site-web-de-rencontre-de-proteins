@@ -1,5 +1,4 @@
 # TP - Site web de rencontre de proteins
-## Utilisant l'ontology GO
 (Duration estimée 40 min)
 ## Comment utiliser ce TP ?
 Faites un git clone de ce dépôt, vérifiez que vous avez tous les pré-requis installés et suivez les instructions dans le JupyterNotebook "TP-RencontreProteines".
