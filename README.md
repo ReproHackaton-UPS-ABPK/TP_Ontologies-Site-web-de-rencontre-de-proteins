@@ -23,3 +23,4 @@ pip install Flask
 pip install mygene
 pip install ipykernel
 ```
+j'adore l'ontologie
