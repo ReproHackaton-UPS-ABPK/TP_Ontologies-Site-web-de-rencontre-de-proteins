@@ -8,7 +8,7 @@ Faites un git clone de ce dépôt, vérifiez que vous avez tous les pré-requis 
 * owlready2 = 0.45
 * flask = 3.0.0
 * mygene = 3.2.2
-* ipykernel = 
+* ipykernel = 6.26.0
 
 Note : d'autres versions de ces mêmes bibliothèques peuvent fonctionner, mais le TP a été développé sur les versions mentionnées ici. 
 ### Nos recommandations pour préparer l'environnement de travail:
@@ -23,4 +23,3 @@ pip install Flask
 pip install mygene
 pip install ipykernel
 ```
-j'adore l'ontologie
